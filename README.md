@@ -2,6 +2,8 @@
 
 <h2>Home Projects:</h2>
 
+- <b>Project Euler Python and Java </b>
+  - 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -20,6 +22,11 @@
 
     
 <h2> Profesional Work </h2>
+
+- <b>AutonoSky GCS Mission Progress Feature</b>
+
+  - [GCS Mission Progress Feature](https://github.com/Ryan-McRae/Autonosky-GCS-mission_progress_feature/tree/main) 
+  
 <h2> Certifications </h2>
 <h2>Connect with me:</h2>
 
